@@ -2,12 +2,12 @@
 MMIP: Microbiome Metabolome Integration Platform
 
 
-## Web service  
+## Web service:  
 
 Web service for MMIP is present at: https://bioinfo.jisiasr.org/mmip/  
 
 
-## Manual  
+## Manual:  
 
 <b>MMIP Manual:</b> Details on how to get started can be found in manual: https://bioinfo.jisiasr.org/mmip/manual.php
 
@@ -19,7 +19,8 @@ Web service for MMIP is present at: https://bioinfo.jisiasr.org/mmip/
 <p align="center"><img src="img/img.jpg" alt="Logo"></p>
 
 
-##  Support for MMIP
+##  Support for MMIP:
 <div align="justify">If you have any queries/questions regarding installation, usage, or want us to include new features, etc of  MMIP, please mail us at <a href="mailto:support_m2m@csiriicb.res.in" target="_blank" rel="noopener noreferrer">support_m2m@jisiasr.org</a>.</div> 
 
-## Publication 
+## Publication: 
+
