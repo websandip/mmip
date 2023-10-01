@@ -24,6 +24,11 @@ Web service for MMIP is present at: https://bioinfo.jisiasr.org/mmip/
 
 ## Publication: 
 
+- Anupam Gautam+, Debaleena Bhowmik+, Sayantani Basu, Wenhuan Zeng, Abhishake Lahiri, Daniel H Huson, Sandip Paul*, Microbiome Metabolome Integration 
+Platform (MMIP): a web-based platform for microbiome and metabolome data integration and feature identification, **Briefings in Bioinformatics**, Volume 
+24,Issue 6, November **2023**, bbad325, https://doi.org/10.1093/bib/bbad325
+
+
 - You can access preprint here: Anupam Gautam+, Debaleena Bhowmik+, Sayantani Basu, Wenhuan Zeng, Abhishake Lahiri, Daniel H. Huson, Sandip 
 Paul*. Microbiome Metabolome Integration Platform (MMIP): a web-based platform for microbiome and metabolome data integration and feature 
 identification. *bioRxiv*, **2023**; doi: https://doi.org/10.1101/2023.04.04.535534
