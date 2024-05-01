@@ -1,7 +1,7 @@
 # MMIP 
 MMIP: Microbiome Metabolome Integration Platform
 
-# <font color="red"> Please note: The server is undergoing maintenance and is expected to be back online by the end of May.</font>
+# <span color="red"> Please note: The server is undergoing maintenance and is expected to be back online by the end of May.</span>
 
 ## Web service:  
 
