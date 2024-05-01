@@ -1,7 +1,7 @@
 # MMIP 
 MMIP: Microbiome Metabolome Integration Platform
 
-#<span color="red"> Please note: The server is undergoing maintenance and is expected to be back online by the end of May 2024.</span>
+# <span color="red"> Please note: The server is undergoing maintenance and is expected to be back online by the end of May 2024.</span>
 
 ## Web service:  
 
