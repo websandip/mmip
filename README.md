@@ -1,16 +1,16 @@
 # MMIP 
 MMIP: Microbiome Metabolome Integration Platform
 
-# <span color="red">Please note: The server is still undergoing maintenance and is expected to be back online by June 15, 2024. If you have any questions, please email us at <a href="mailto:support_m2m@csiriicb.res.in" target="_blank" rel="noopener noreferrer">support_m2m@jisiasr.org</a>. Thank you for your patience</span>
+# <span color="red">Please note: Note: We have installed MMIP on the new server, and operating system, many packages have been updated. As a result, some outcomes might differ due to changes in the seed and algorithms of these packages. Please let us know if you see high changes in results (June 15, 2024). If you have any questions, please email us at <a href="mailto:support_m2m@csiriicb.res.in" target="_blank" rel="noopener noreferrer">support_m2m@jisiasr.org</a>. Thank you for your patience</span>
 
 ## Web service:  
 
-Web service for MMIP is present at: https://bioinfo.jisiasr.org/mmip/  
+Web service for MMIP is present at: http://bioinfo.jisiasr.org/mmip/  
 
 
 ## Manual:  
 
-<b>MMIP Manual:</b> Details on how to get started can be found in manual: https://bioinfo.jisiasr.org/mmip/manual.php
+<b>MMIP Manual:</b> Details on how to get started can be found in manual: http://bioinfo.jisiasr.org/mmip/manual.php
 
 
 ## The MMIP workflow:
