@@ -1,7 +1,7 @@
 # MMIP 
 MMIP: Microbiome Metabolome Integration Platform
 
-# <span color="red">Please note: The server is currently undergoing maintenance and is expected to be back online by January 15, 2025. If you have any questions, please email us at <a href="mailto:support_m2m@csiriicb.res.in" target="_blank" rel="noopener noreferrer">support_m2m@jisiasr.org</a>. Thank you for your patience</span>
+# <span color="red">Please note: The server is currently undergoing maintenance and is expected to be back online by January 31, 2025. If you have any questions, please email us at <a href="mailto:support_m2m@csiriicb.res.in" target="_blank" rel="noopener noreferrer">support_m2m@jisiasr.org</a>. Thank you for your patience</span>
 
 
 ## Web service:  
